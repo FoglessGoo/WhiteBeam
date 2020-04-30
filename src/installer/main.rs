@@ -90,6 +90,7 @@ fn test(_args: Vec<String>) {
             .expect("Failed to execute file command");
     println!("{}", String::from_utf8_lossy(&libwhitebeam_file.stdout).trim_end());
     println!("Exported symbols:");
+    // TODO: objdump is not provided on Windows
     let libwhitebeam_objdump = Command::new(platform::search_path(OsStr::new("objdump")).unwrap())
             .arg("-T").arg("-j").arg(".text").arg("./target/release/libwhitebeam.so")
             .output()
