@@ -17,8 +17,6 @@ Open source EDR with application whitelisting
 </p>
 <img src="https://raw.githubusercontent.com/gist/noproto/f858188c6201b9a7e4ac99157c2546ba/raw/f34a53aa2fc2ea6c3af8a26af43385719318640f/WhiteBeamShield.svg" alt="WhiteBeam Logo" align="right" />
 
----
-
 ## Features
 
 * Block and detect sophisticated attacks
