@@ -5,19 +5,19 @@ Open source EDR with application whitelisting
 
 Copyright 2020, WhiteBeam Security, Inc.
 --->
-<img src="https://raw.githubusercontent.com/gist/noproto/f858188c6201b9a7e4ac99157c2546ba/raw/f34a53aa2fc2ea6c3af8a26af43385719318640f/WhiteBeamShield.svg" alt="WhiteBeam Logo" align="left" />
-<p align="center">
+<img src="https://raw.githubusercontent.com/gist/noproto/f858188c6201b9a7e4ac99157c2546ba/raw/f34a53aa2fc2ea6c3af8a26af43385719318640f/WhiteBeamShield.svg" alt="WhiteBeam Logo" align="right" width="17%" hspace="50"/>
+<p align="left">
+<img src="https://gist.githubusercontent.com/noproto/f858188c6201b9a7e4ac99157c2546ba/raw/37f3b631bbea096926d28cebdcee15654f6fe847/WhiteBeamTextOnly.svg" alt="WhiteBeam">
 <br>
-<img src="https://raw.githubusercontent.com/gist/noproto/f858188c6201b9a7e4ac99157c2546ba/raw/c254b7b3dc65fe7383c66d74f020e2dc4f15ffb5/WhiteBeamText.svg" alt="WhiteBeam">
-<br>
+Open source EDR with application whitelisting
+<br><br><br>
 <a href="https://github.com/WhiteBeamSec/WhiteBeam/releases" title="Releases"><img src="https://img.shields.io/github/v/tag/WhiteBeamSec/WhiteBeam.svg?style=for-the-badge&label=release&color=blue" alt="Latest Release"></a>
 <a href="https://github.com/WhiteBeamSec/WhiteBeam/blob/master/LICENSE.md" title="License"><img src="https://img.shields.io/badge/LICENSE-CC--BY--NC-blue?style=for-the-badge" alt="CC-BY-NC 4.0 Licensed"></a>
 <a href="https://github.com/WhiteBeamSec/WhiteBeam/security/policy" title="Security"><img src="https://img.shields.io/badge/bounty-$5K-green?style=for-the-badge" alt="Bounty $5K"></a>
 <a href="https://discord.gg/GYSVqYx" target="_blank" title="Chat"><img src="https://img.shields.io/discord/641744447289294859?style=for-the-badge" alt="Chat"></a>
-<br>
-Open source EDR with application whitelisting
 </p>
-<br>
+
+---
 
 ## Features
 
@@ -26,8 +26,6 @@ Open source EDR with application whitelisting
 * Highly compatible: Development focused on all platforms (incl. legacy) and architectures
 * Open source: Audits welcome
 * Reviewed by security researchers with combined 100+ years of experience
-
----
 
 ## Installation
 
@@ -52,8 +50,6 @@ Install WhiteBeam: `./install`
 3. Install WhiteBeam:
 `cargo run install`
 
----
-
 ## How to Use
 
 1. (Optional) Set configuration:
@@ -62,8 +58,6 @@ Install WhiteBeam: `./install`
 `whitebeam --add /absolute/path/to/command`
 3. Enable WhiteBeam:
 `whitebeam --enable`
-
----
 
 ## In Action
 
