@@ -1,5 +1,4 @@
 // Load OS-specific modules
-mod hooks;
 
 use libc::{c_char, c_int, c_void};
 use std::{env,
