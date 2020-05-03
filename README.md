@@ -5,16 +5,7 @@ Open source EDR with application whitelisting
 
 Copyright 2020, WhiteBeam Security, Inc.
 --->
-<div align="center">
-<table>
-<tr>
-<td rowspan="2">
-<div align="center">
-<img src="https://raw.githubusercontent.com/gist/noproto/f858188c6201b9a7e4ac99157c2546ba/raw/f34a53aa2fc2ea6c3af8a26af43385719318640f/WhiteBeamShield.svg" alt="WhiteBeam Logo">
-</div>
-</td>
-<td>
-<div align="center">
+<p align="center">
 <img src="https://raw.githubusercontent.com/gist/noproto/f858188c6201b9a7e4ac99157c2546ba/raw/c254b7b3dc65fe7383c66d74f020e2dc4f15ffb5/WhiteBeamText.svg" alt="WhiteBeam">
 <br>
 <a href="https://github.com/WhiteBeamSec/WhiteBeam/releases" title="Releases"><img src="https://img.shields.io/github/v/tag/WhiteBeamSec/WhiteBeam.svg?style=for-the-badge&label=release&color=blue" alt="Latest Release"></a>
@@ -23,10 +14,8 @@ Copyright 2020, WhiteBeam Security, Inc.
 <a href="https://discord.gg/GYSVqYx" target="_blank" title="Chat"><img src="https://img.shields.io/discord/641744447289294859?style=for-the-badge" alt="Chat"></a>
 <br>
 Open source EDR with application whitelisting
-</div>
-</td>
-</table>
-</div>
+</p>
+<img src="https://raw.githubusercontent.com/gist/noproto/f858188c6201b9a7e4ac99157c2546ba/raw/f34a53aa2fc2ea6c3af8a26af43385719318640f/WhiteBeamShield.svg" alt="WhiteBeam Logo" align="right" />
 
 ---
 
