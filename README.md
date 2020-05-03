@@ -14,14 +14,14 @@ Copyright 2020, WhiteBeam Security, Inc.
 </div>
 </td>
 <td>
-<div align="center" style="line-height: 80%;">
+<div align="center">
 <img src="https://raw.githubusercontent.com/gist/noproto/f858188c6201b9a7e4ac99157c2546ba/raw/f34a53aa2fc2ea6c3af8a26af43385719318640f/WhiteBeamText.svg" alt="WhiteBeam">
-<br><br>
+<br>
 <a href="https://github.com/WhiteBeamSec/WhiteBeam/releases" title="Releases"><img src="https://img.shields.io/github/v/tag/WhiteBeamSec/WhiteBeam.svg?style=for-the-badge&label=release&color=blue" alt="Latest Release"></a>
 <a href="https://github.com/WhiteBeamSec/WhiteBeam/blob/master/LICENSE.md" title="License"><img src="https://img.shields.io/badge/LICENSE-CC--BY--NC-blue?style=for-the-badge" alt="CC-BY-NC 4.0 Licensed"></a>
 <a href="https://github.com/WhiteBeamSec/WhiteBeam/security/policy" title="Security"><img src="https://img.shields.io/badge/bounty-$5K-green?style=for-the-badge" alt="Bounty $5K"></a>
 <a href="https://discord.gg/GYSVqYx" target="_blank" title="Chat"><img src="https://img.shields.io/discord/641744447289294859?style=for-the-badge" alt="Chat"></a>
-<br><br>
+<br>
 Open source EDR with application whitelisting
 </div>
 </td>
