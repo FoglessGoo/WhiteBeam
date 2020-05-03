@@ -5,7 +5,9 @@ Open source EDR with application whitelisting
 
 Copyright 2020, WhiteBeam Security, Inc.
 --->
+<img src="https://raw.githubusercontent.com/gist/noproto/f858188c6201b9a7e4ac99157c2546ba/raw/f34a53aa2fc2ea6c3af8a26af43385719318640f/WhiteBeamShield.svg" alt="WhiteBeam Logo" align="left" />
 <p align="center">
+<br>
 <img src="https://raw.githubusercontent.com/gist/noproto/f858188c6201b9a7e4ac99157c2546ba/raw/c254b7b3dc65fe7383c66d74f020e2dc4f15ffb5/WhiteBeamText.svg" alt="WhiteBeam">
 <br>
 <a href="https://github.com/WhiteBeamSec/WhiteBeam/releases" title="Releases"><img src="https://img.shields.io/github/v/tag/WhiteBeamSec/WhiteBeam.svg?style=for-the-badge&label=release&color=blue" alt="Latest Release"></a>
@@ -15,7 +17,7 @@ Copyright 2020, WhiteBeam Security, Inc.
 <br>
 Open source EDR with application whitelisting
 </p>
-<img src="https://raw.githubusercontent.com/gist/noproto/f858188c6201b9a7e4ac99157c2546ba/raw/f34a53aa2fc2ea6c3af8a26af43385719318640f/WhiteBeamShield.svg" alt="WhiteBeam Logo" align="right" />
+<br>
 
 ## Features
 
